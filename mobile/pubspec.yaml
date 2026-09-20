@@ -1,0 +1,59 @@
+name: campusar
+description: "CampusAR — Tongmyong University Campus Navigator"
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State management
+  flutter_riverpod: ^2.5.1
+
+  # Local persistence (offline-first campus data)
+  sqflite: ^2.3.3
+  path: ^1.9.0
+  path_provider: ^2.1.3
+
+  # Location services
+  geolocator: ^12.0.0
+  permission_handler: ^11.3.1
+
+  # Campus map (OpenStreetMap-compatible, isolated inside
+  # features/campus/screens/campus_map_screen.dart so the tile provider
+  # can be swapped later without touching any other feature)
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+
+  # AR navigation: camera preview + device compass heading
+  camera: ^0.12.1
+  flutter_compass: ^0.8.1
+
+  # Networking (backend sync)
+  http: ^1.2.1
+
+  # Small key-value storage for settings (theme choice, etc.)
+  shared_preferences: ^2.2.3
+
+  # App version display on the Settings screen
+  package_info_plus: ^8.0.0
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  mocktail: ^1.0.3
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/campus.json
+    - assets/data/buildings.json
+    - assets/data/entrances.json
+    - assets/data/facilities.json
+    - assets/data/routes.json

@@ -1,0 +1,20 @@
+{
+  "_comment": "SAMPLE DATASET — replace with verified Tongmyong University campus data. Coordinates below are approximate/illustrative only (centered near Tongmyong University's real Busan area, Nam-gu district) and MUST NOT be treated as surveyed, accurate positions.",
+  "id": "tongmyong-main",
+  "name": "Tongmyong University",
+  "universityName": "Tongmyong University",
+  "country": "South Korea",
+  "city": "Busan",
+  "latitude": 35.0952,
+  "longitude": 129.1004,
+  "mapConfiguration": {
+    "defaultZoom": 17,
+    "minZoom": 15,
+    "maxZoom": 20,
+    "boundsNorthEast": { "latitude": 35.1005, "longitude": 129.1060 },
+    "boundsSouthWest": { "latitude": 35.0900, "longitude": 129.0950 },
+    "tileProvider": "osm",
+    "tileUrlTemplate": "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
+  },
+  "version": "1.0.0"
+}

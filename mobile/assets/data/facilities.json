@@ -1,0 +1,335 @@
+{
+  "_comment": "SAMPLE DATASET \u2014 replace with verified Tongmyong University campus data.",
+  "facilities": [
+    {
+      "id": "fac_001",
+      "buildingId": "bldg_1",
+      "name": "Admin Offices",
+      "category": "general"
+    },
+    {
+      "id": "fac_002",
+      "buildingId": "bldg_1",
+      "name": "Restrooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_003",
+      "buildingId": "bldg_1",
+      "name": "Elevator",
+      "category": "general"
+    },
+    {
+      "id": "fac_004",
+      "buildingId": "bldg_1",
+      "name": "Info Desk",
+      "category": "general"
+    },
+    {
+      "id": "fac_005",
+      "buildingId": "bldg_2",
+      "name": "Classrooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_006",
+      "buildingId": "bldg_2",
+      "name": "Faculty Offices",
+      "category": "general"
+    },
+    {
+      "id": "fac_007",
+      "buildingId": "bldg_2",
+      "name": "Restrooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_008",
+      "buildingId": "bldg_3",
+      "name": "Labs",
+      "category": "general"
+    },
+    {
+      "id": "fac_009",
+      "buildingId": "bldg_3",
+      "name": "Classrooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_010",
+      "buildingId": "bldg_3",
+      "name": "Elevator",
+      "category": "general"
+    },
+    {
+      "id": "fac_011",
+      "buildingId": "bldg_3",
+      "name": "Restrooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_012",
+      "buildingId": "bldg_4",
+      "name": "Labs",
+      "category": "general"
+    },
+    {
+      "id": "fac_013",
+      "buildingId": "bldg_4",
+      "name": "Workshop",
+      "category": "general"
+    },
+    {
+      "id": "fac_014",
+      "buildingId": "bldg_4",
+      "name": "Restrooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_015",
+      "buildingId": "bldg_5",
+      "name": "Classrooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_016",
+      "buildingId": "bldg_5",
+      "name": "Case Study Rooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_017",
+      "buildingId": "bldg_5",
+      "name": "Restrooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_018",
+      "buildingId": "bldg_5",
+      "name": "Elevator",
+      "category": "general"
+    },
+    {
+      "id": "fac_019",
+      "buildingId": "bldg_6",
+      "name": "Studios",
+      "category": "general"
+    },
+    {
+      "id": "fac_020",
+      "buildingId": "bldg_6",
+      "name": "Gallery",
+      "category": "general"
+    },
+    {
+      "id": "fac_021",
+      "buildingId": "bldg_6",
+      "name": "Restrooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_022",
+      "buildingId": "bldg_7",
+      "name": "Labs",
+      "category": "general"
+    },
+    {
+      "id": "fac_023",
+      "buildingId": "bldg_7",
+      "name": "Classrooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_024",
+      "buildingId": "bldg_7",
+      "name": "Elevator",
+      "category": "general"
+    },
+    {
+      "id": "fac_025",
+      "buildingId": "bldg_7",
+      "name": "Restrooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_026",
+      "buildingId": "bldg_8",
+      "name": "Simulation Labs",
+      "category": "general"
+    },
+    {
+      "id": "fac_027",
+      "buildingId": "bldg_8",
+      "name": "Classrooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_028",
+      "buildingId": "bldg_8",
+      "name": "Restrooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_029",
+      "buildingId": "bldg_10",
+      "name": "Reading Rooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_030",
+      "buildingId": "bldg_10",
+      "name": "Study Pods",
+      "category": "general"
+    },
+    {
+      "id": "fac_031",
+      "buildingId": "bldg_10",
+      "name": "Cafe",
+      "category": "general"
+    },
+    {
+      "id": "fac_032",
+      "buildingId": "bldg_10",
+      "name": "Elevator",
+      "category": "general"
+    },
+    {
+      "id": "fac_033",
+      "buildingId": "bldg_10",
+      "name": "Restrooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_034",
+      "buildingId": "bldg_12",
+      "name": "Cafeteria",
+      "category": "general"
+    },
+    {
+      "id": "fac_035",
+      "buildingId": "bldg_12",
+      "name": "Convenience Store",
+      "category": "general"
+    },
+    {
+      "id": "fac_036",
+      "buildingId": "bldg_12",
+      "name": "Lounge",
+      "category": "general"
+    },
+    {
+      "id": "fac_037",
+      "buildingId": "bldg_12",
+      "name": "Restrooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_038",
+      "buildingId": "bldg_15",
+      "name": "Gym",
+      "category": "general"
+    },
+    {
+      "id": "fac_039",
+      "buildingId": "bldg_15",
+      "name": "Locker Rooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_040",
+      "buildingId": "bldg_15",
+      "name": "Pool",
+      "category": "general"
+    },
+    {
+      "id": "fac_041",
+      "buildingId": "bldg_15",
+      "name": "Restrooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_042",
+      "buildingId": "bldg_17",
+      "name": "Classrooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_043",
+      "buildingId": "bldg_17",
+      "name": "Offices",
+      "category": "general"
+    },
+    {
+      "id": "fac_044",
+      "buildingId": "bldg_17",
+      "name": "Restrooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_045",
+      "buildingId": "bldg_17",
+      "name": "Elevator",
+      "category": "general"
+    },
+    {
+      "id": "fac_046",
+      "buildingId": "bldg_20",
+      "name": "Dorm Rooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_047",
+      "buildingId": "bldg_20",
+      "name": "Laundry",
+      "category": "general"
+    },
+    {
+      "id": "fac_048",
+      "buildingId": "bldg_20",
+      "name": "Lounge",
+      "category": "general"
+    },
+    {
+      "id": "fac_049",
+      "buildingId": "bldg_20",
+      "name": "Restrooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_050",
+      "buildingId": "bldg_20",
+      "name": "Elevator",
+      "category": "general"
+    },
+    {
+      "id": "fac_051",
+      "buildingId": "bldg_21",
+      "name": "Dorm Rooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_052",
+      "buildingId": "bldg_21",
+      "name": "Laundry",
+      "category": "general"
+    },
+    {
+      "id": "fac_053",
+      "buildingId": "bldg_21",
+      "name": "Lounge",
+      "category": "general"
+    },
+    {
+      "id": "fac_054",
+      "buildingId": "bldg_21",
+      "name": "Restrooms",
+      "category": "general"
+    },
+    {
+      "id": "fac_055",
+      "buildingId": "bldg_21",
+      "name": "Elevator",
+      "category": "general"
+    }
+  ]
+}

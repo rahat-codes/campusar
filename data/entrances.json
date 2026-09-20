@@ -1,0 +1,117 @@
+{
+  "_comment": "SAMPLE DATASET \u2014 replace with verified Tongmyong University campus data.",
+  "entrances": [
+    {
+      "id": "ent_1_main",
+      "buildingId": "bldg_1",
+      "latitude": 35.0958468,
+      "longitude": 129.0991703,
+      "floor": 1,
+      "name": "Main Entrance"
+    },
+    {
+      "id": "ent_2_main",
+      "buildingId": "bldg_2",
+      "latitude": 35.0958468,
+      "longitude": 129.0998291,
+      "floor": 1,
+      "name": "Main Entrance"
+    },
+    {
+      "id": "ent_3_main",
+      "buildingId": "bldg_3",
+      "latitude": 35.0959366,
+      "longitude": 129.1005317,
+      "floor": 1,
+      "name": "Main Entrance"
+    },
+    {
+      "id": "ent_4_main",
+      "buildingId": "bldg_4",
+      "latitude": 35.0959366,
+      "longitude": 129.1013003,
+      "floor": 1,
+      "name": "Main Entrance"
+    },
+    {
+      "id": "ent_5_main",
+      "buildingId": "bldg_5",
+      "latitude": 35.0953078,
+      "longitude": 129.0991703,
+      "floor": 1,
+      "name": "Main Entrance"
+    },
+    {
+      "id": "ent_6_main",
+      "buildingId": "bldg_6",
+      "latitude": 35.0953078,
+      "longitude": 129.0998291,
+      "floor": 1,
+      "name": "Main Entrance"
+    },
+    {
+      "id": "ent_7_main",
+      "buildingId": "bldg_7",
+      "latitude": 35.0953078,
+      "longitude": 129.1005317,
+      "floor": 1,
+      "name": "Main Entrance"
+    },
+    {
+      "id": "ent_8_main",
+      "buildingId": "bldg_8",
+      "latitude": 35.0953078,
+      "longitude": 129.1013003,
+      "floor": 1,
+      "name": "Main Entrance"
+    },
+    {
+      "id": "ent_10_main",
+      "buildingId": "bldg_10",
+      "latitude": 35.0950024,
+      "longitude": 129.1001585,
+      "floor": 1,
+      "name": "Main Entrance"
+    },
+    {
+      "id": "ent_12_main",
+      "buildingId": "bldg_12",
+      "latitude": 35.0950024,
+      "longitude": 129.1007513,
+      "floor": 1,
+      "name": "Main Entrance"
+    },
+    {
+      "id": "ent_15_main",
+      "buildingId": "bldg_15",
+      "latitude": 35.0944634,
+      "longitude": 129.0993899,
+      "floor": 1,
+      "name": "Main Entrance"
+    },
+    {
+      "id": "ent_17_main",
+      "buildingId": "bldg_17",
+      "latitude": 35.0944634,
+      "longitude": 129.100422,
+      "floor": 1,
+      "name": "Main Entrance"
+    },
+    {
+      "id": "ent_20_main",
+      "buildingId": "bldg_20",
+      "latitude": 35.0944634,
+      "longitude": 129.1015199,
+      "floor": 1,
+      "name": "Main Entrance"
+    },
+    {
+      "id": "ent_21_main",
+      "buildingId": "bldg_21",
+      "latitude": 35.0947329,
+      "longitude": 129.1020688,
+      "floor": 1,
+      "name": "Main Entrance"
+    }
+  ]
+}
