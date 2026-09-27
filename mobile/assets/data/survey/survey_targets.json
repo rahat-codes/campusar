@@ -1,0 +1,231 @@
+{
+  "_comment": "Official Tongmyong University campus location checklist, for Survey Mode progress tracking. This is a CHECKLIST of names/identifiers to be matched against surveyed GPS data in the field -- it contains NO coordinates and must not be treated as verified geographic data.",
+  "source": "Official Tongmyong University campus map (numbered locations 1-45).",
+  "targets": [
+    {
+      "number": 1,
+      "name": "University Main Office Building",
+      "category": "building"
+    },
+    {
+      "number": 2,
+      "name": "Health and Welfare Building",
+      "category": "building"
+    },
+    {
+      "number": 3,
+      "name": "Architecture and Design Building",
+      "category": "building"
+    },
+    {
+      "number": 4,
+      "name": "Graduate School",
+      "category": "building"
+    },
+    {
+      "number": 5,
+      "name": "Architectural Engineering Practice Building",
+      "category": "building"
+    },
+    {
+      "number": 6,
+      "name": "Student Union",
+      "category": "building"
+    },
+    {
+      "number": 7,
+      "name": "Tongmyong Stadium",
+      "category": "facility"
+    },
+    {
+      "number": 8,
+      "name": "Student Welfare Building",
+      "category": "building"
+    },
+    {
+      "number": 9,
+      "name": "Tongmyong Student Residence Hall 2",
+      "category": "building"
+    },
+    {
+      "number": 10,
+      "name": "Tongmyong University Library",
+      "category": "building"
+    },
+    {
+      "number": 11,
+      "name": "Tongmyong Hall",
+      "category": "building"
+    },
+    {
+      "number": 12,
+      "name": "Companion Animal Studies Building",
+      "category": "building"
+    },
+    {
+      "number": 13,
+      "name": "ICT Building #2",
+      "category": "building"
+    },
+    {
+      "number": 14,
+      "name": "ICT Building #3",
+      "category": "building"
+    },
+    {
+      "number": 15,
+      "name": "ICT Building #1",
+      "category": "building"
+    },
+    {
+      "number": 16,
+      "name": "Professorial Research Building",
+      "category": "building"
+    },
+    {
+      "number": 17,
+      "name": "Busan International College Academic Building",
+      "category": "building"
+    },
+    {
+      "number": 18,
+      "name": "Tongmyong Technical High School",
+      "category": "building"
+    },
+    {
+      "number": 19,
+      "name": "Busan International College Main Office Building",
+      "category": "building"
+    },
+    {
+      "number": 20,
+      "name": "Rest Area / Convenience Store",
+      "category": "building"
+    },
+    {
+      "number": 21,
+      "name": "International Industry-University Cooperation Center / ROTC Building",
+      "category": "building"
+    },
+    {
+      "number": 22,
+      "name": "Gaonnuri",
+      "category": "building"
+    },
+    {
+      "number": 23,
+      "name": "TU Founder's Grave",
+      "category": "landmark"
+    },
+    {
+      "number": 24,
+      "name": "Do-ing Building",
+      "category": "building"
+    },
+    {
+      "number": 25,
+      "name": "Fountain",
+      "category": "landmark"
+    },
+    {
+      "number": 26,
+      "name": "Yongma Square",
+      "category": "landmark"
+    },
+    {
+      "number": 27,
+      "name": "Main Gate 1",
+      "category": "landmark"
+    },
+    {
+      "number": 28,
+      "name": "Main Gate 2",
+      "category": "landmark"
+    },
+    {
+      "number": 29,
+      "name": "Main Gate 3",
+      "category": "landmark"
+    },
+    {
+      "number": 30,
+      "name": "Parking lot 1",
+      "category": "infrastructure"
+    },
+    {
+      "number": 31,
+      "name": "Parking lot 2",
+      "category": "infrastructure"
+    },
+    {
+      "number": 32,
+      "name": "Track and Field 1",
+      "category": "facility"
+    },
+    {
+      "number": 33,
+      "name": "Track and Field 2",
+      "category": "facility"
+    },
+    {
+      "number": 34,
+      "name": "Circular Square",
+      "category": "landmark"
+    },
+    {
+      "number": 35,
+      "name": "Parking Control Center",
+      "category": "infrastructure"
+    },
+    {
+      "number": 36,
+      "name": "Sports Facilities",
+      "category": "facility"
+    },
+    {
+      "number": 37,
+      "name": "Parking lot 3",
+      "category": "infrastructure"
+    },
+    {
+      "number": 38,
+      "name": "Parking lot 5",
+      "category": "infrastructure"
+    },
+    {
+      "number": 39,
+      "name": "Shuttle Bus Stop",
+      "category": "infrastructure"
+    },
+    {
+      "number": 40,
+      "name": "Majitrak",
+      "category": "building"
+    },
+    {
+      "number": 41,
+      "name": "Fountain",
+      "category": "landmark"
+    },
+    {
+      "number": 42,
+      "name": "Student Lounge / Cafe",
+      "category": "building"
+    },
+    {
+      "number": 43,
+      "name": "Tongmyong Student Residence Hall 1",
+      "category": "building"
+    },
+    {
+      "number": 44,
+      "name": "Tongmyong Garden",
+      "category": "landmark"
+    },
+    {
+      "number": 45,
+      "name": "Sports Facilities Administration Office",
+      "category": "facility"
+    }
+  ]
+}

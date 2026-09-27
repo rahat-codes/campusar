@@ -1,0 +1,396 @@
+{
+  "_comment": "SAMPLE DATASET \u2014 replace with verified Tongmyong University campus data.",
+  "buildings": [
+    {
+      "id": "bldg_1",
+      "campusId": "tongmyong-main",
+      "name": "Building 1 - Main Administration Hall",
+      "shortName": "Main Hall",
+      "buildingNumber": "1",
+      "latitude": 35.0959186,
+      "longitude": 129.0990825,
+      "description": "Sample dataset \u2014 replace with verified Tongmyong University campus data. Main Hall (Building 1 - Main Administration Hall) hosts classrooms and facilities as listed.",
+      "image": "assets/images/buildings/building_1.jpg",
+      "floors": 5,
+      "entrances": [
+        "ent_1_main"
+      ],
+      "facilityIds": [
+        "fac_001",
+        "fac_002",
+        "fac_003",
+        "fac_004"
+      ],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "hasElevator": true,
+        "notes": "Sample accessibility info \u2014 verify with campus facilities office."
+      },
+      "destinationNodeId": "node_014",
+      "entranceNodeId": "node_013"
+    },
+    {
+      "id": "bldg_2",
+      "campusId": "tongmyong-main",
+      "name": "Building 2 - College of Humanities",
+      "shortName": "Humanities",
+      "buildingNumber": "2",
+      "latitude": 35.0959186,
+      "longitude": 129.0997413,
+      "description": "Sample dataset \u2014 replace with verified Tongmyong University campus data. Humanities (Building 2 - College of Humanities) hosts classrooms and facilities as listed.",
+      "image": "assets/images/buildings/building_2.jpg",
+      "floors": 4,
+      "entrances": [
+        "ent_2_main"
+      ],
+      "facilityIds": [
+        "fac_005",
+        "fac_006",
+        "fac_007"
+      ],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "hasElevator": false,
+        "notes": "Sample accessibility info \u2014 verify with campus facilities office."
+      },
+      "destinationNodeId": "node_016",
+      "entranceNodeId": "node_015"
+    },
+    {
+      "id": "bldg_3",
+      "campusId": "tongmyong-main",
+      "name": "Building 3 - Engineering Hall 1",
+      "shortName": "Engineering-1",
+      "buildingNumber": "3",
+      "latitude": 35.0960085,
+      "longitude": 129.1006196,
+      "description": "Sample dataset \u2014 replace with verified Tongmyong University campus data. Engineering-1 (Building 3 - Engineering Hall 1) hosts classrooms and facilities as listed.",
+      "image": "assets/images/buildings/building_3.jpg",
+      "floors": 6,
+      "entrances": [
+        "ent_3_main"
+      ],
+      "facilityIds": [
+        "fac_008",
+        "fac_009",
+        "fac_010",
+        "fac_011"
+      ],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "hasElevator": true,
+        "notes": "Sample accessibility info \u2014 verify with campus facilities office."
+      },
+      "destinationNodeId": "node_018",
+      "entranceNodeId": "node_017"
+    },
+    {
+      "id": "bldg_4",
+      "campusId": "tongmyong-main",
+      "name": "Building 4 - Engineering Hall 2",
+      "shortName": "Engineering-2",
+      "buildingNumber": "4",
+      "latitude": 35.0960085,
+      "longitude": 129.1013881,
+      "description": "Sample dataset \u2014 replace with verified Tongmyong University campus data. Engineering-2 (Building 4 - Engineering Hall 2) hosts classrooms and facilities as listed.",
+      "image": "assets/images/buildings/building_4.jpg",
+      "floors": 6,
+      "entrances": [
+        "ent_4_main"
+      ],
+      "facilityIds": [
+        "fac_012",
+        "fac_013",
+        "fac_014"
+      ],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "hasElevator": false,
+        "notes": "Sample accessibility info \u2014 verify with campus facilities office."
+      },
+      "destinationNodeId": "node_020",
+      "entranceNodeId": "node_019"
+    },
+    {
+      "id": "bldg_5",
+      "campusId": "tongmyong-main",
+      "name": "Building 5 - College of Business",
+      "shortName": "Business",
+      "buildingNumber": "5",
+      "latitude": 35.0953797,
+      "longitude": 129.0990825,
+      "description": "Sample dataset \u2014 replace with verified Tongmyong University campus data. Business (Building 5 - College of Business) hosts classrooms and facilities as listed.",
+      "image": "assets/images/buildings/building_5.jpg",
+      "floors": 5,
+      "entrances": [
+        "ent_5_main"
+      ],
+      "facilityIds": [
+        "fac_015",
+        "fac_016",
+        "fac_017",
+        "fac_018"
+      ],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "hasElevator": true,
+        "notes": "Sample accessibility info \u2014 verify with campus facilities office."
+      },
+      "destinationNodeId": "node_022",
+      "entranceNodeId": "node_021"
+    },
+    {
+      "id": "bldg_6",
+      "campusId": "tongmyong-main",
+      "name": "Building 6 - College of Design",
+      "shortName": "Design",
+      "buildingNumber": "6",
+      "latitude": 35.0953797,
+      "longitude": 129.0997413,
+      "description": "Sample dataset \u2014 replace with verified Tongmyong University campus data. Design (Building 6 - College of Design) hosts classrooms and facilities as listed.",
+      "image": "assets/images/buildings/building_6.jpg",
+      "floors": 4,
+      "entrances": [
+        "ent_6_main"
+      ],
+      "facilityIds": [
+        "fac_019",
+        "fac_020",
+        "fac_021"
+      ],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "hasElevator": false,
+        "notes": "Sample accessibility info \u2014 verify with campus facilities office."
+      },
+      "destinationNodeId": "node_024",
+      "entranceNodeId": "node_023"
+    },
+    {
+      "id": "bldg_7",
+      "campusId": "tongmyong-main",
+      "name": "Building 7 - Science & Technology",
+      "shortName": "Sci-Tech",
+      "buildingNumber": "7",
+      "latitude": 35.0953797,
+      "longitude": 129.1006196,
+      "description": "Sample dataset \u2014 replace with verified Tongmyong University campus data. Sci-Tech (Building 7 - Science & Technology) hosts classrooms and facilities as listed.",
+      "image": "assets/images/buildings/building_7.jpg",
+      "floors": 6,
+      "entrances": [
+        "ent_7_main"
+      ],
+      "facilityIds": [
+        "fac_022",
+        "fac_023",
+        "fac_024",
+        "fac_025"
+      ],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "hasElevator": true,
+        "notes": "Sample accessibility info \u2014 verify with campus facilities office."
+      },
+      "destinationNodeId": "node_026",
+      "entranceNodeId": "node_025"
+    },
+    {
+      "id": "bldg_8",
+      "campusId": "tongmyong-main",
+      "name": "Building 8 - Health Sciences Hall",
+      "shortName": "Health Sciences",
+      "buildingNumber": "8",
+      "latitude": 35.0953797,
+      "longitude": 129.1013881,
+      "description": "Sample dataset \u2014 replace with verified Tongmyong University campus data. Health Sciences (Building 8 - Health Sciences Hall) hosts classrooms and facilities as listed.",
+      "image": "assets/images/buildings/building_8.jpg",
+      "floors": 5,
+      "entrances": [
+        "ent_8_main"
+      ],
+      "facilityIds": [
+        "fac_026",
+        "fac_027",
+        "fac_028"
+      ],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "hasElevator": false,
+        "notes": "Sample accessibility info \u2014 verify with campus facilities office."
+      },
+      "destinationNodeId": "node_028",
+      "entranceNodeId": "node_027"
+    },
+    {
+      "id": "bldg_10",
+      "campusId": "tongmyong-main",
+      "name": "Building 10 - Central Library",
+      "shortName": "Central Library",
+      "buildingNumber": "10",
+      "latitude": 35.0949305,
+      "longitude": 129.1000706,
+      "description": "Sample dataset \u2014 replace with verified Tongmyong University campus data. Central Library (Building 10 - Central Library) hosts classrooms and facilities as listed.",
+      "image": "assets/images/buildings/building_10.jpg",
+      "floors": 4,
+      "entrances": [
+        "ent_10_main"
+      ],
+      "facilityIds": [
+        "fac_029",
+        "fac_030",
+        "fac_031",
+        "fac_032",
+        "fac_033"
+      ],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "hasElevator": true,
+        "notes": "Sample accessibility info \u2014 verify with campus facilities office."
+      },
+      "destinationNodeId": "node_030",
+      "entranceNodeId": "node_029"
+    },
+    {
+      "id": "bldg_12",
+      "campusId": "tongmyong-main",
+      "name": "Building 12 - Student Union",
+      "shortName": "Student Union",
+      "buildingNumber": "12",
+      "latitude": 35.0949305,
+      "longitude": 129.1008392,
+      "description": "Sample dataset \u2014 replace with verified Tongmyong University campus data. Student Union (Building 12 - Student Union) hosts classrooms and facilities as listed.",
+      "image": "assets/images/buildings/building_12.jpg",
+      "floors": 3,
+      "entrances": [
+        "ent_12_main"
+      ],
+      "facilityIds": [
+        "fac_034",
+        "fac_035",
+        "fac_036",
+        "fac_037"
+      ],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "hasElevator": false,
+        "notes": "Sample accessibility info \u2014 verify with campus facilities office."
+      },
+      "destinationNodeId": "node_032",
+      "entranceNodeId": "node_031"
+    },
+    {
+      "id": "bldg_15",
+      "campusId": "tongmyong-main",
+      "name": "Building 15 - Gymnasium & Sports Center",
+      "shortName": "Gymnasium",
+      "buildingNumber": "15",
+      "latitude": 35.0943915,
+      "longitude": 129.0993021,
+      "description": "Sample dataset \u2014 replace with verified Tongmyong University campus data. Gymnasium (Building 15 - Gymnasium & Sports Center) hosts classrooms and facilities as listed.",
+      "image": "assets/images/buildings/building_15.jpg",
+      "floors": 2,
+      "entrances": [
+        "ent_15_main"
+      ],
+      "facilityIds": [
+        "fac_038",
+        "fac_039",
+        "fac_040",
+        "fac_041"
+      ],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "hasElevator": false,
+        "notes": "Sample accessibility info \u2014 verify with campus facilities office."
+      },
+      "destinationNodeId": "node_034",
+      "entranceNodeId": "node_033"
+    },
+    {
+      "id": "bldg_17",
+      "campusId": "tongmyong-main",
+      "name": "Building 17 - International & Global Center",
+      "shortName": "Global Center",
+      "buildingNumber": "17",
+      "latitude": 35.0943915,
+      "longitude": 129.1005098,
+      "description": "Sample dataset \u2014 replace with verified Tongmyong University campus data. Global Center (Building 17 - International & Global Center) hosts classrooms and facilities as listed.",
+      "image": "assets/images/buildings/building_17.jpg",
+      "floors": 5,
+      "entrances": [
+        "ent_17_main"
+      ],
+      "facilityIds": [
+        "fac_042",
+        "fac_043",
+        "fac_044",
+        "fac_045"
+      ],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "hasElevator": true,
+        "notes": "Sample accessibility info \u2014 verify with campus facilities office."
+      },
+      "destinationNodeId": "node_036",
+      "entranceNodeId": "node_035"
+    },
+    {
+      "id": "bldg_20",
+      "campusId": "tongmyong-main",
+      "name": "Building 20 - Dormitory A",
+      "shortName": "Dormitory-A",
+      "buildingNumber": "20",
+      "latitude": 35.0943915,
+      "longitude": 129.1016077,
+      "description": "Sample dataset \u2014 replace with verified Tongmyong University campus data. Dormitory-A (Building 20 - Dormitory A) hosts classrooms and facilities as listed.",
+      "image": "assets/images/buildings/building_20.jpg",
+      "floors": 8,
+      "entrances": [
+        "ent_20_main"
+      ],
+      "facilityIds": [
+        "fac_046",
+        "fac_047",
+        "fac_048",
+        "fac_049",
+        "fac_050"
+      ],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "hasElevator": true,
+        "notes": "Sample accessibility info \u2014 verify with campus facilities office."
+      },
+      "destinationNodeId": "node_038",
+      "entranceNodeId": "node_037"
+    },
+    {
+      "id": "bldg_21",
+      "campusId": "tongmyong-main",
+      "name": "Building 21 - Dormitory B",
+      "shortName": "Dormitory-B",
+      "buildingNumber": "21",
+      "latitude": 35.094661,
+      "longitude": 129.1021567,
+      "description": "Sample dataset \u2014 replace with verified Tongmyong University campus data. Dormitory-B (Building 21 - Dormitory B) hosts classrooms and facilities as listed.",
+      "image": "assets/images/buildings/building_21.jpg",
+      "floors": 8,
+      "entrances": [
+        "ent_21_main"
+      ],
+      "facilityIds": [
+        "fac_051",
+        "fac_052",
+        "fac_053",
+        "fac_054",
+        "fac_055"
+      ],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "hasElevator": true,
+        "notes": "Sample accessibility info \u2014 verify with campus facilities office."
+      },
+      "destinationNodeId": "node_040",
+      "entranceNodeId": "node_039"
+    }
+  ]
+}

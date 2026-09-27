@@ -1,0 +1,652 @@
+{
+  "_comment": "SAMPLE DATASET \u2014 replace with verified Tongmyong University campus data. Graph of RouteNode/RouteEdge for pedestrian routing.",
+  "nodes": [
+    {
+      "id": "node_001",
+      "latitude": 35.095739,
+      "longitude": 129.0988629,
+      "type": "intersection"
+    },
+    {
+      "id": "node_002",
+      "latitude": 35.095739,
+      "longitude": 129.0997413,
+      "type": "intersection"
+    },
+    {
+      "id": "node_003",
+      "latitude": 35.095739,
+      "longitude": 129.1006196,
+      "type": "intersection"
+    },
+    {
+      "id": "node_004",
+      "latitude": 35.095739,
+      "longitude": 129.1014979,
+      "type": "intersection"
+    },
+    {
+      "id": "node_005",
+      "latitude": 35.0951102,
+      "longitude": 129.0988629,
+      "type": "intersection"
+    },
+    {
+      "id": "node_006",
+      "latitude": 35.0951102,
+      "longitude": 129.0997413,
+      "type": "intersection"
+    },
+    {
+      "id": "node_007",
+      "latitude": 35.0951102,
+      "longitude": 129.1006196,
+      "type": "intersection"
+    },
+    {
+      "id": "node_008",
+      "latitude": 35.0951102,
+      "longitude": 129.1014979,
+      "type": "intersection"
+    },
+    {
+      "id": "node_009",
+      "latitude": 35.0945712,
+      "longitude": 129.0990825,
+      "type": "intersection"
+    },
+    {
+      "id": "node_010",
+      "latitude": 35.0945712,
+      "longitude": 129.1001804,
+      "type": "intersection"
+    },
+    {
+      "id": "node_011",
+      "latitude": 35.0945712,
+      "longitude": 129.1010587,
+      "type": "intersection"
+    },
+    {
+      "id": "node_012",
+      "latitude": 35.0945712,
+      "longitude": 129.1019371,
+      "type": "intersection"
+    },
+    {
+      "id": "node_013",
+      "latitude": 35.0958468,
+      "longitude": 129.0991703,
+      "type": "entrance"
+    },
+    {
+      "id": "node_014",
+      "latitude": 35.0958468,
+      "longitude": 129.0991703,
+      "type": "destination"
+    },
+    {
+      "id": "node_015",
+      "latitude": 35.0958468,
+      "longitude": 129.0998291,
+      "type": "entrance"
+    },
+    {
+      "id": "node_016",
+      "latitude": 35.0958468,
+      "longitude": 129.0998291,
+      "type": "destination"
+    },
+    {
+      "id": "node_017",
+      "latitude": 35.0959366,
+      "longitude": 129.1005317,
+      "type": "entrance"
+    },
+    {
+      "id": "node_018",
+      "latitude": 35.0959366,
+      "longitude": 129.1005317,
+      "type": "destination"
+    },
+    {
+      "id": "node_019",
+      "latitude": 35.0959366,
+      "longitude": 129.1013003,
+      "type": "entrance"
+    },
+    {
+      "id": "node_020",
+      "latitude": 35.0959366,
+      "longitude": 129.1013003,
+      "type": "destination"
+    },
+    {
+      "id": "node_021",
+      "latitude": 35.0953078,
+      "longitude": 129.0991703,
+      "type": "entrance"
+    },
+    {
+      "id": "node_022",
+      "latitude": 35.0953078,
+      "longitude": 129.0991703,
+      "type": "destination"
+    },
+    {
+      "id": "node_023",
+      "latitude": 35.0953078,
+      "longitude": 129.0998291,
+      "type": "entrance"
+    },
+    {
+      "id": "node_024",
+      "latitude": 35.0953078,
+      "longitude": 129.0998291,
+      "type": "destination"
+    },
+    {
+      "id": "node_025",
+      "latitude": 35.0953078,
+      "longitude": 129.1005317,
+      "type": "entrance"
+    },
+    {
+      "id": "node_026",
+      "latitude": 35.0953078,
+      "longitude": 129.1005317,
+      "type": "destination"
+    },
+    {
+      "id": "node_027",
+      "latitude": 35.0953078,
+      "longitude": 129.1013003,
+      "type": "entrance"
+    },
+    {
+      "id": "node_028",
+      "latitude": 35.0953078,
+      "longitude": 129.1013003,
+      "type": "destination"
+    },
+    {
+      "id": "node_029",
+      "latitude": 35.0950024,
+      "longitude": 129.1001585,
+      "type": "entrance"
+    },
+    {
+      "id": "node_030",
+      "latitude": 35.0950024,
+      "longitude": 129.1001585,
+      "type": "destination"
+    },
+    {
+      "id": "node_031",
+      "latitude": 35.0950024,
+      "longitude": 129.1007513,
+      "type": "entrance"
+    },
+    {
+      "id": "node_032",
+      "latitude": 35.0950024,
+      "longitude": 129.1007513,
+      "type": "destination"
+    },
+    {
+      "id": "node_033",
+      "latitude": 35.0944634,
+      "longitude": 129.0993899,
+      "type": "entrance"
+    },
+    {
+      "id": "node_034",
+      "latitude": 35.0944634,
+      "longitude": 129.0993899,
+      "type": "destination"
+    },
+    {
+      "id": "node_035",
+      "latitude": 35.0944634,
+      "longitude": 129.100422,
+      "type": "entrance"
+    },
+    {
+      "id": "node_036",
+      "latitude": 35.0944634,
+      "longitude": 129.100422,
+      "type": "destination"
+    },
+    {
+      "id": "node_037",
+      "latitude": 35.0944634,
+      "longitude": 129.1015199,
+      "type": "entrance"
+    },
+    {
+      "id": "node_038",
+      "latitude": 35.0944634,
+      "longitude": 129.1015199,
+      "type": "destination"
+    },
+    {
+      "id": "node_039",
+      "latitude": 35.0947329,
+      "longitude": 129.1020688,
+      "type": "entrance"
+    },
+    {
+      "id": "node_040",
+      "latitude": 35.0947329,
+      "longitude": 129.1020688,
+      "type": "destination"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_001",
+      "fromNode": "node_001",
+      "toNode": "node_002",
+      "distance": 79.9,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_002",
+      "fromNode": "node_002",
+      "toNode": "node_003",
+      "distance": 79.9,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_003",
+      "fromNode": "node_003",
+      "toNode": "node_004",
+      "distance": 79.9,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_004",
+      "fromNode": "node_005",
+      "toNode": "node_006",
+      "distance": 79.9,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_005",
+      "fromNode": "node_006",
+      "toNode": "node_007",
+      "distance": 79.9,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_006",
+      "fromNode": "node_007",
+      "toNode": "node_008",
+      "distance": 79.9,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_007",
+      "fromNode": "node_009",
+      "toNode": "node_010",
+      "distance": 99.9,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_008",
+      "fromNode": "node_010",
+      "toNode": "node_011",
+      "distance": 79.9,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_009",
+      "fromNode": "node_011",
+      "toNode": "node_012",
+      "distance": 79.9,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_010",
+      "fromNode": "node_001",
+      "toNode": "node_005",
+      "distance": 69.9,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_011",
+      "fromNode": "node_002",
+      "toNode": "node_006",
+      "distance": 69.9,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_012",
+      "fromNode": "node_003",
+      "toNode": "node_007",
+      "distance": 69.9,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_013",
+      "fromNode": "node_004",
+      "toNode": "node_008",
+      "distance": 69.9,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_014",
+      "fromNode": "node_005",
+      "toNode": "node_009",
+      "distance": 63.2,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_015",
+      "fromNode": "node_006",
+      "toNode": "node_010",
+      "distance": 72.0,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_016",
+      "fromNode": "node_007",
+      "toNode": "node_011",
+      "distance": 72.0,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_017",
+      "fromNode": "node_008",
+      "toNode": "node_012",
+      "distance": 72.0,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_018",
+      "fromNode": "node_013",
+      "toNode": "node_001",
+      "distance": 30.4,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_019",
+      "fromNode": "node_013",
+      "toNode": "node_014",
+      "distance": 1.0,
+      "accessible": true,
+      "indoor": true,
+      "outdoor": false
+    },
+    {
+      "id": "edge_020",
+      "fromNode": "node_015",
+      "toNode": "node_002",
+      "distance": 14.4,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_021",
+      "fromNode": "node_015",
+      "toNode": "node_016",
+      "distance": 1.0,
+      "accessible": true,
+      "indoor": true,
+      "outdoor": false
+    },
+    {
+      "id": "edge_022",
+      "fromNode": "node_017",
+      "toNode": "node_003",
+      "distance": 23.4,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_023",
+      "fromNode": "node_017",
+      "toNode": "node_018",
+      "distance": 1.0,
+      "accessible": true,
+      "indoor": true,
+      "outdoor": false
+    },
+    {
+      "id": "edge_024",
+      "fromNode": "node_019",
+      "toNode": "node_004",
+      "distance": 28.4,
+      "accessible": false,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_025",
+      "fromNode": "node_019",
+      "toNode": "node_020",
+      "distance": 1.0,
+      "accessible": true,
+      "indoor": true,
+      "outdoor": false
+    },
+    {
+      "id": "edge_026",
+      "fromNode": "node_021",
+      "toNode": "node_005",
+      "distance": 35.6,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_027",
+      "fromNode": "node_021",
+      "toNode": "node_022",
+      "distance": 1.0,
+      "accessible": true,
+      "indoor": true,
+      "outdoor": false
+    },
+    {
+      "id": "edge_028",
+      "fromNode": "node_023",
+      "toNode": "node_006",
+      "distance": 23.4,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_029",
+      "fromNode": "node_023",
+      "toNode": "node_024",
+      "distance": 1.0,
+      "accessible": true,
+      "indoor": true,
+      "outdoor": false
+    },
+    {
+      "id": "edge_030",
+      "fromNode": "node_025",
+      "toNode": "node_007",
+      "distance": 23.4,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_031",
+      "fromNode": "node_025",
+      "toNode": "node_026",
+      "distance": 1.0,
+      "accessible": true,
+      "indoor": true,
+      "outdoor": false
+    },
+    {
+      "id": "edge_032",
+      "fromNode": "node_027",
+      "toNode": "node_008",
+      "distance": 28.4,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_033",
+      "fromNode": "node_027",
+      "toNode": "node_028",
+      "distance": 1.0,
+      "accessible": true,
+      "indoor": true,
+      "outdoor": false
+    },
+    {
+      "id": "edge_034",
+      "fromNode": "node_029",
+      "toNode": "node_006",
+      "distance": 39.8,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_035",
+      "fromNode": "node_029",
+      "toNode": "node_030",
+      "distance": 1.0,
+      "accessible": true,
+      "indoor": true,
+      "outdoor": false
+    },
+    {
+      "id": "edge_036",
+      "fromNode": "node_031",
+      "toNode": "node_007",
+      "distance": 17.0,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_037",
+      "fromNode": "node_031",
+      "toNode": "node_032",
+      "distance": 1.0,
+      "accessible": true,
+      "indoor": true,
+      "outdoor": false
+    },
+    {
+      "id": "edge_038",
+      "fromNode": "node_033",
+      "toNode": "node_009",
+      "distance": 30.4,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_039",
+      "fromNode": "node_033",
+      "toNode": "node_034",
+      "distance": 1.0,
+      "accessible": true,
+      "indoor": true,
+      "outdoor": false
+    },
+    {
+      "id": "edge_040",
+      "fromNode": "node_035",
+      "toNode": "node_010",
+      "distance": 25.0,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_041",
+      "fromNode": "node_035",
+      "toNode": "node_036",
+      "distance": 1.0,
+      "accessible": true,
+      "indoor": true,
+      "outdoor": false
+    },
+    {
+      "id": "edge_042",
+      "fromNode": "node_037",
+      "toNode": "node_012",
+      "distance": 39.8,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_043",
+      "fromNode": "node_037",
+      "toNode": "node_038",
+      "distance": 1.0,
+      "accessible": true,
+      "indoor": true,
+      "outdoor": false
+    },
+    {
+      "id": "edge_044",
+      "fromNode": "node_039",
+      "toNode": "node_012",
+      "distance": 21.6,
+      "accessible": true,
+      "indoor": false,
+      "outdoor": true
+    },
+    {
+      "id": "edge_045",
+      "fromNode": "node_039",
+      "toNode": "node_040",
+      "distance": 1.0,
+      "accessible": true,
+      "indoor": true,
+      "outdoor": false
+    }
+  ]
+}
