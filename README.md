@@ -1,5 +1,20 @@
 # CampusAR — Tongmyong University Campus Navigator
 
+<div align="center">
+
+<p><strong>OFFLINE-FIRST CAMPUS NAVIGATION MVP</strong></p>
+
+<img src="https://img.shields.io/badge/Flutter-0F172A?style=for-the-badge" alt="Flutter" />
+<img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge" alt="Python" />
+<img src="https://img.shields.io/badge/SQLite-0F172A?style=for-the-badge" alt="SQLite" />
+
+<a href="https://github.com/rahat-codes/campusar"><img src="https://img.shields.io/github/stars/rahat-codes/campusar?style=social" alt="GitHub stars" /></a>
+
+</div>
+
+---
+
 An offline-first campus navigation app with a foundation for AR
 navigation, built as a V1 MVP for Tongmyong University (Busan, South
 Korea). The architecture is deliberately university-agnostic: another
